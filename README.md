@@ -1,4 +1,11 @@
-![Header](https://i.ibb.co.com/yB7bQ2b/github-header-image-1.png)
+<p align="center">
+  <img
+    src="https://i.ibb.co.com/VY6Ksfr/Artboard-1-4x.png"
+    alt="Header"
+    width="800"
+  />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shamim</h1>
 <h3 align="center">A passionate Javascript Developer From Bangladesh</h3>
 <img
